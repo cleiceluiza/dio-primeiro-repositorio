@@ -1,0 +1,17 @@
+
+Link para download do GIT: https://git-scm.com/downloads
+
+O GIT Bash é um terminal estendido para otimizar o uso do GIT
+
+Principais comando do git para subir código:
+- git init: iniciar o repositório
+- git add * : adiciona arquivo para Staging área
+- git commit -m “comentário”: comitar arquivo com comentário
+- git push origin master: subir código para repositório remoto
+
+Outros comandos:
+- git config --user.name (nome do usuário do git)
+- git config --user.email (seu e-mail)
+
+
+
